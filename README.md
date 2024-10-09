@@ -1,5 +1,4 @@
 
-This is my First SQL Project
 **Senior Employee:**  Identifies the most senior employee based on job title levels.
 **Top Invoicing Countries:** Analyzes which countries and cities generate the most invoices and revenue.
 **Best Customers & Rock Listeners:** Finds the top-spending customer and lists rock music listeners alphabetically by email.
